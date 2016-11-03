@@ -15,5 +15,6 @@ module.exports = {
 	tasks: tasks,
 	events: {
 		group: 'queue-live',
+		shorthands: events["queue-live"]
 	}
 };
